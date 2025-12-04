@@ -1,6 +1,6 @@
 # Website Perpustakaan SDI Cindekia Mulia
 
-Website statis untuk Perpustakaan SDI Cindekia Mulia, dirancang dengan tampilan modern, responsif, dan ramah pengguna.
+Website statis untuk Perpustakaan SDI Cindekia Mulia, dengan acuan tampilan seperti website SLIMS 9, yakni modern, user friendly, dan responsive.
 
 ## Fitur Utama
 
@@ -45,4 +45,4 @@ Cukup buka file `index.html` di browser web modern apa pun. Tidak diperlukan ins
 
 ## Kredit
 
-Dikembangkan untuk SDI Cindekia Mulia.
+Dikembangkan untuk SDI Cindekia Mulia, sebagai prototype atau bahan latihan.
