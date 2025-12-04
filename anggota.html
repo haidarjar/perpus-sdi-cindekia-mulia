@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Area Anggota - Perpustakaan SDI Cindekia Mulia</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+    <!-- Remix Icon -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <a href="index.html" class="logo">
+                <img src="assets/logo.jpg" alt="Logo SDI Cindekia Mulia">
+                <span>SDI Cindekia Mulia</span>
+            </a>
+            <div class="nav-links">
+                <a href="index.html"><i class="ri-home-4-line"></i> Beranda</a>
+                <a href="informasi.html"><i class="ri-information-line"></i> Informasi</a>
+                <a href="berita.html"><i class="ri-newspaper-line"></i> Berita</a>
+                <a href="bantuan.html"><i class="ri-question-line"></i> Bantuan</a>
+                <a href="pustakawan.html"><i class="ri-user-star-line"></i> Pustakawan</a>
+                <a href="anggota.html" class="active btn btn-primary"><i class="ri-user-line"></i> Area Anggota</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mt-1" style="display: flex; justify-content: center; align-items: center; min-height: 60vh;">
+
+        <section class="card" style="max-width: 500px; width: 100%; padding: 2rem;">
+            <div class="card-body">
+                <h1 class="section-title" style="margin-bottom: 1.5rem; border-bottom: none;"><i
+                        class="ri-login-circle-line"></i> Login Anggota Perpustakaan
+                </h1>
+                <p style="margin-bottom: 2rem; color: var(--color-text-light);">
+                    Silakan masukkan ID Anggota dan Kata Sandi yang diberikan oleh petugas perpustakaan.
+                    Jika belum memiliki akun, hubungi petugas.
+                </p>
+
+                <form action="#" method="POST">
+                    <div class="form-group">
+                        <label for="member_id" class="form-label"><i class="ri-user-line"></i> ID Anggota</label>
+                        <input type="text" id="member_id" name="member_id" class="form-control"
+                            placeholder="Masukkan ID Anggota" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password" class="form-label"><i class="ri-lock-line"></i> Kata Sandi</label>
+                        <input type="password" id="password" name="password" class="form-control"
+                            placeholder="Masukkan Kata Sandi" required>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 1rem;"><i
+                            class="ri-login-box-line"></i> Masuk</button>
+                </form>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Tentang Kami</h3>
+                <p>Perpustakaan SDI Cindekia Mulia menyediakan ribuan koleksi buku untuk menunjang kegiatan belajar
+                    mengajar dan literasi siswa.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Jam Operasional</h3>
+                <p><i class="ri-time-line"></i> Senin - Jumat: 08.00 - 14.00 WIB</p>
+                <p><i class="ri-time-line"></i> Sabtu: 08.00 - 12.00 WIB</p>
+            </div>
+            <div class="footer-section">
+                <h3>Hubungi Kami</h3>
+                <p><i class="ri-phone-line"></i> Telp: (021) 1234-5678</p>
+                <p><i class="ri-mail-line"></i> Email: perpus@sdicindekiamulia.sch.id</p>
+            </div>
+        </div>
+        <div class="copyright">
+            &copy; 2025 Perpustakaan SDI Cindekia Mulia. All rights reserved.
+        </div>
+    </footer>
+</body>
+
+</html>
