@@ -16,7 +16,7 @@ Website statis untuk Perpustakaan SDI Cindekia Mulia, dengan acuan tampilan sepe
 *   **HTML5**: Struktur semantik.
 *   **CSS3**: Styling custom dengan variabel CSS (tanpa framework CSS berat).
 *   **Remix Icon**: Ikon vektor modern.
-*   **Google Fonts**: Tipografi (Inter & Merriweather).
+*   **Google Fonts**: Typografi (Inter & Merriweather).
 
 ## Cara Menjalankan
 
