@@ -4,19 +4,19 @@ Website statis untuk Perpustakaan SDI Cindekia Mulia, dengan acuan tampilan sepe
 
 ## Fitur Utama
 
-*   **Beranda (`index.html`)**: Pencarian koleksi, koleksi populer, dan informasi lokasi.
-*   **Informasi (`informasi.html`)**: Jam operasional, keanggotaan, dan kontak.
-*   **Berita (`berita.html`)**: Berita dan pengumuman terbaru dari perpustakaan.
-*   **Bantuan (`bantuan.html`)**: Panduan penggunaan katalog dan layanan perpustakaan.
-*   **Pustakawan (`pustakawan.html`)**: Profil staf perpustakaan.
-*   **Area Anggota (`anggota.html`)**: Halaman login untuk anggota perpustakaan.
+- **Beranda (`index.html`)**: Pencarian koleksi, koleksi populer, dan informasi lokasi.
+- **Informasi (`informasi.html`)**: Jam operasional, keanggotaan, dan kontak.
+- **Berita (`berita.html`)**: Berita dan pengumuman terbaru dari perpustakaan.
+- **Bantuan (`bantuan.html`)**: Panduan penggunaan katalog dan layanan perpustakaan.
+- **Pustakawan (`pustakawan.html`)**: Profil staf perpustakaan.
+- **Area Anggota (`anggota.html`)**: Halaman login untuk anggota perpustakaan.
 
 ## Teknologi yang Digunakan
 
-*   **HTML5**: Struktur semantik.
-*   **CSS3**: Styling custom dengan variabel CSS (tanpa framework CSS berat).
-*   **Remix Icon**: Ikon vektor modern.
-*   **Google Fonts**: Tipografi (Inter & Merriweather).
+- **HTML5**: Struktur semantik.
+- **CSS3**: Styling custom dengan variabel CSS (tanpa framework CSS berat).
+- **Remix Icon**: Ikon vektor modern.
+- **Google Fonts**: Typografi (Inter & Merriweather).
 
 ## Cara Menjalankan
 
